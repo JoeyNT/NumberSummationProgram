@@ -1,6 +1,6 @@
 <body>
     <h1>Number Summation Program</h1>
-    <p>This Python program reads a file named <code>numbers.txt</code>, processes each line based on the rule specified, and writes the sum of numbers (excluding the first number) to <code>output.txt</code>.</p>
+    <p>This Python program reads a file named <code>numbers.txt</code>, processes each line based on the rule specified, and writes the sum of numbers to <code>output.txt</code>.</p>
 <h2>Input File (numbers.txt):</h2>
 3 10 20 23 <br>
 4 -7 8 15 12 <br>
