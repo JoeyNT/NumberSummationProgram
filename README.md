@@ -19,8 +19,6 @@
 17
 112
  </pre>
-<br> You can access the <code>output.txt</code> by clicking the link below:</p>
-<a href="https://github.com/JoeyNT/PyFileManager/blob/main/output.txt" target="output">Download output.txt File</a>
 
 <h2>Usage:</h2>
     <p>1. Create a file named <code>numbers.txt</code> and populate it with lines following the specified format (as shown above).</p>
